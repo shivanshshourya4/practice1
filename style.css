@@ -1,0 +1,28 @@
+Body{
+    text-align: center;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    background-color: white;
+}
+
+
+.modal-body{
+    text-align: center;
+}
+
+.modal-content{
+    margin-top: 100%;
+}
+
+.img_modal{
+    display: inline-block;
+}
+
+p_modal{
+    margin-top: 10px;
+}
+
